@@ -1,2 +1,2 @@
 # TicketSales
-Solution for the Ticket Sales question
+Starter code for the Ticket Sales question (FRQ 2005-2)
